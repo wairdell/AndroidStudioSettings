@@ -11,7 +11,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="getid" value="private static volatile $CLASS_NAME$ sInstance;&#10;&#10;public static $CLASS_NAME$ getInstance() {&#10;    if (sInstance == null) {&#10;        synchronized($CLASS_NAME$.class) {&#10;            if (sInstance == null) {&#10;                sInstance = new $CLASS_NAME$();&#10;            }&#10;        }&#10;    }&#10;    return sInstance;&#10;}&#10;&#10;private $CLASS_NAME$() {&#10;    &#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="getid" value="private static volatile $CLASS_NAME$ sInstance;&#10;&#10;public static $CLASS_NAME$ getInstance() {&#10;    if (sInstance == null) {&#10;        synchronized($CLASS_NAME$.class) {&#10;            if (sInstance == null) {&#10;                sInstance = new $CLASS_NAME$();&#10;            }&#10;        }&#10;    }&#10;    return sInstance;&#10;}&#10;&#10;private $CLASS_NAME$() {&#10;    &#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
