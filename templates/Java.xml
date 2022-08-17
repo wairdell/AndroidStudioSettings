@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="tag" value="public static String TAG = $CLASS_NAME$.class.getSimpleName();" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
