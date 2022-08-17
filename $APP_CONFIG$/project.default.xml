@@ -1,0 +1,13 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectViewState">
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="D:/Users/changwei.zhang/AppData/Local/Android/Sdk" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
