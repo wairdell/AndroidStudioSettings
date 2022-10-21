@@ -146,6 +146,10 @@
           <option name="url" value="https://github.com/WangShuo1143368701/WSLiveDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tsingsee/EasyRTMP-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Users\AndroidStudioProjects" />
