@@ -89,6 +89,17 @@
         <target value="Android 1.0" />
         <api value="1" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8QM0221413001826" />
+          </Key>
+        </key>
+        <name value="HUAWEI OCE-AN50" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
