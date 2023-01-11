@@ -1,0 +1,19 @@
+<application>
+  <component name="OSFileAssociationPreferences">
+    <option name="fileTypeNames">
+      <list>
+        <option value="GLSL shader" />
+        <option value="GLSL shader-x-comp" />
+        <option value="GLSL shader-x-frag" />
+        <option value="GLSL shader-x-fsh" />
+        <option value="GLSL shader-x-geom" />
+        <option value="GLSL shader-x-shader" />
+        <option value="GLSL shader-x-tesc" />
+        <option value="GLSL shader-x-tese" />
+        <option value="GLSL shader-x-vert" />
+        <option value="GLSL shader-x-vsh" />
+      </list>
+    </option>
+    <option name="ideLocationHash" value="AF9CCEF01A4DD5C23228FEA12356728F" />
+  </component>
+</application>
