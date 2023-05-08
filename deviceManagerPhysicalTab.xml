@@ -8,9 +8,9 @@
             <value value="10.10.30.118:5555" />
           </Key>
         </key>
-        <name value="Xiaomi M2012K10C" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -154,6 +154,17 @@
         <name value="Xiaomi M2102J2SC" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:62027" />
+          </Key>
+        </key>
+        <name value="samsung SM-G973N" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
