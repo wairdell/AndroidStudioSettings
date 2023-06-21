@@ -16,6 +16,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="cb0d1f05" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2102J2SC" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="ban7ozhybynjx8ae" />
           </Key>
         </key>
@@ -143,17 +154,6 @@
         <name value="OnePlus ONEPLUS A5010" />
         <target value="Android 9.0" />
         <api value="28" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="cb0d1f05" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2102J2SC" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
