@@ -1,0 +1,12 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="process:mine" />
+        <option value="ActivityTaskManager" />
+        <option value="start u0" />
+      </list>
+    </option>
+  </component>
+</application>
