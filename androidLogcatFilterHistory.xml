@@ -1,12 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="favorites">
+      <list>
+        <option value="package:mine -tag:gralloc4" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:TAG " />
         <option value="package:mine TAG" />
-        <option value="package:mine " />
         <option value="process:mine" />
         <option value="ActivityTaskManager" />
         <option value="start u0" />
