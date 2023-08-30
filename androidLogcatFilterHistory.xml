@@ -5,14 +5,15 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="at pages" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 tag:TAG" />
     <option name="nonFavorites">
       <list>
-        <option value="at pages" />
-        <option value="result =" />
-        <option value="package:mine TAG" />
+        <option value="package:mine -tag:gralloc4 tag:TAG" />
         <option value="package:mine " />
         <option value="package:mine" />
+        <option value="package:mine TAG" />
+        <option value="at pages" />
+        <option value="result =" />
         <option value="package:mine tag:TAG " />
         <option value="process:mine" />
         <option value="ActivityTaskManager" />
