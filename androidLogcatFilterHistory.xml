@@ -5,12 +5,17 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 tag:TAG" />
+    <option name="mostRecentlyUsed" value="======" />
     <option name="nonFavorites">
       <list>
+        <option value="======" />
+        <option value="called" />
+        <option value="onPause" />
+        <option value="=====" />
+        <option value="package:mine" />
+        <option value="package:mine message:tag" />
         <option value="package:mine -tag:gralloc4 tag:TAG" />
         <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine TAG" />
         <option value="at pages" />
         <option value="result =" />
