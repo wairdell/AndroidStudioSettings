@@ -9,6 +9,8 @@
     <option name="nonFavorites">
       <list>
         <option value="======" />
+        <option value="com.baidu.searchbox.lite" />
+        <option value="com.baidu.searchbox.lite/" />
         <option value="called" />
         <option value="onPause" />
         <option value="=====" />
