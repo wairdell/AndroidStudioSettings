@@ -5,9 +5,9 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="-u" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="-u" />
         <option value="======" />
         <option value="com.baidu.searchbox.lite" />
@@ -18,7 +18,6 @@
         <option value="package:mine" />
         <option value="package:mine message:tag" />
         <option value="package:mine -tag:gralloc4 tag:TAG" />
-        <option value="package:mine " />
         <option value="package:mine TAG" />
         <option value="at pages" />
         <option value="result =" />
