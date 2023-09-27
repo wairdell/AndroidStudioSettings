@@ -5,15 +5,16 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="weixin://" />
+    <option name="mostRecentlyUsed" value="package:mine tag:TAG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:TAG" />
+        <option value="start u0" />
         <option value="weixin://" />
         <option value="weixin" />
         <option value="tag:ActivityManager" />
         <option value="START u0" />
         <option value="tag:ActivityTaskManager" />
-        <option value="start u0" />
         <option value="start u4" />
         <option value="start u" />
         <option value="tag:TAG" />
@@ -27,7 +28,6 @@
         <option value="onPause" />
         <option value="=====" />
         <option value="package:mine" />
-        <option value="package:mine message:tag" />
       </list>
     </option>
   </component>
