@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAG" />
+    <option name="mostRecentlyUsed" value="start u" />
     <option name="nonFavorites">
       <list>
+        <option value="start u" />
         <option value="tag:TAG" />
         <option value="package:mine -tag:gralloc4 tag:TAG" />
         <option value="package:mine " />
