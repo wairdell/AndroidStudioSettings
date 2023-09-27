@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:TAG" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ConfirmStartActivity" />
         <option value="package:mine tag:TAG" />
         <option value="start u0" />
         <option value="weixin://" />
@@ -27,7 +28,6 @@
         <option value="called" />
         <option value="onPause" />
         <option value="=====" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
