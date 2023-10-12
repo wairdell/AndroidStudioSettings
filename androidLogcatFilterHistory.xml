@@ -5,12 +5,13 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4" />
+    <option name="mostRecentlyUsed" value="start u0" />
     <option name="nonFavorites">
       <list>
+        <option value="start u0" />
+        <option value="ActivityManager" />
         <option value="tag:ConfirmStartActivity" />
         <option value="package:mine tag:TAG" />
-        <option value="start u0" />
         <option value="weixin://" />
         <option value="weixin" />
         <option value="tag:ActivityManager" />
@@ -27,7 +28,6 @@
         <option value="com.baidu.searchbox.lite/" />
         <option value="called" />
         <option value="onPause" />
-        <option value="=====" />
       </list>
     </option>
   </component>
