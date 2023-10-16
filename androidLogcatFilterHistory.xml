@@ -5,9 +5,11 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="start u0" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value=" tag:MyAccessibilityService" />
+        <option value="package:mine " />
         <option value="start u0" />
         <option value="ActivityManager" />
         <option value="tag:ConfirmStartActivity" />
@@ -21,13 +23,11 @@
         <option value="start u" />
         <option value="tag:TAG" />
         <option value="package:mine -tag:gralloc4 tag:TAG" />
-        <option value="package:mine " />
         <option value="-u" />
         <option value="======" />
         <option value="com.baidu.searchbox.lite" />
         <option value="com.baidu.searchbox.lite/" />
         <option value="called" />
-        <option value="onPause" />
       </list>
     </option>
   </component>
