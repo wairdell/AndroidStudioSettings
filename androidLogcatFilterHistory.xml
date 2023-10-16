@@ -5,9 +5,11 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value=" tag=:MyAccessibilityService" />
     <option name="nonFavorites">
       <list>
+        <option value=" tag=:MyAccessibilityService" />
+        <option value=" level:error " />
         <option value=" tag:MyAccessibilityService" />
         <option value="package:mine " />
         <option value="start u0" />
@@ -26,8 +28,6 @@
         <option value="-u" />
         <option value="======" />
         <option value="com.baidu.searchbox.lite" />
-        <option value="com.baidu.searchbox.lite/" />
-        <option value="called" />
       </list>
     </option>
   </component>
