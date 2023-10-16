@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.auto.palmpay" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 tag:MyAccessibilityService " />
         <option value="package:mine -tag:gralloc4 tag=:MyAccessibilityService " />
@@ -27,7 +28,6 @@
         <option value="START u0" />
         <option value="tag:ActivityTaskManager" />
         <option value="start u4" />
-        <option value="start u" />
       </list>
     </option>
   </component>
