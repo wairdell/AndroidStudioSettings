@@ -5,9 +5,9 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag=:MyAccessibilityService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag=:MyAccessibilityService" />
         <option value="package:mine" />
         <option value="package:com.auto.palmpay" />
@@ -19,7 +19,6 @@
         <option value=" tag=:MyAccessibilityService" />
         <option value=" level:error " />
         <option value=" tag:MyAccessibilityService" />
-        <option value="package:mine " />
         <option value="start u0" />
         <option value="ActivityManager" />
         <option value="tag:ConfirmStartActivity" />
