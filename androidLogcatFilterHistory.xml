@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag=:MyAccessibilityService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:MyAccessibilityService" />
         <option value="package:mine" />
         <option value="package:com.auto.palmpay" />
         <option value="package:mine -tag:gralloc4 " />
@@ -27,7 +28,6 @@
         <option value="weixin" />
         <option value="tag:ActivityManager" />
         <option value="START u0" />
-        <option value="tag:ActivityTaskManager" />
       </list>
     </option>
   </component>
