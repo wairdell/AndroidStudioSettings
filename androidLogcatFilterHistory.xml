@@ -5,8 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="mActivityBinding" />
         <option value="package:mine " />
         <option value="package:mine tag=:MyAccessibilityService" />
         <option value="package:mine" />
@@ -26,7 +28,6 @@
         <option value="weixin://" />
         <option value="weixin" />
         <option value="tag:ActivityManager" />
-        <option value="START u0" />
       </list>
     </option>
   </component>
