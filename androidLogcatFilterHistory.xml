@@ -5,11 +5,13 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 draw" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4  " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 draw" />
+        <option value="package:mine -tag:gralloc4  " />
         <option value="package:mine -tag:gralloc4 " />
+        <option value="package:mine -tag:gralloc4 OnGlobalLayoutListener" />
+        <option value="package:mine -tag:gralloc4 draw" />
         <option value="package:mine -tag:gralloc4 onDraw" />
         <option value="package:mine -tag:gralloc4 onViewDetachedFromWindow" />
         <option value="package:mine -tag:gralloc4 onViewAttachedToWindow" />
@@ -26,8 +28,6 @@
         <option value=" level:error " />
         <option value=" tag:MyAccessibilityService" />
         <option value="start u0" />
-        <option value="ActivityManager" />
-        <option value="tag:ConfirmStartActivity" />
       </list>
     </option>
   </component>
