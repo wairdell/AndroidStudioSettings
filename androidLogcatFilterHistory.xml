@@ -5,9 +5,12 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4  " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="diff" />
         <option value="package:mine -tag:gralloc4  " />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 OnGlobalLayoutListener" />
@@ -16,9 +19,7 @@
         <option value="package:mine -tag:gralloc4 onViewDetachedFromWindow" />
         <option value="package:mine -tag:gralloc4 onViewAttachedToWindow" />
         <option value="mActivityBinding" />
-        <option value="package:mine " />
         <option value="package:mine tag=:MyAccessibilityService" />
-        <option value="package:mine" />
         <option value="package:com.auto.palmpay" />
         <option value="package:mine -tag:gralloc4 tag:MyAccessibilityService " />
         <option value="package:mine -tag:gralloc4 tag=:MyAccessibilityService " />
@@ -27,7 +28,6 @@
         <option value=" tag=:MyAccessibilityService" />
         <option value=" level:error " />
         <option value=" tag:MyAccessibilityService" />
-        <option value="start u0" />
       </list>
     </option>
   </component>
