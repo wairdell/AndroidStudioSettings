@@ -5,16 +5,16 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine messageDialogLiveData" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine messageDialogLiveData" />
-        <option value="start u0" />
+        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4  " />
         <option value="package:mine " />
+        <option value="package:mine messageDialogLiveData" />
+        <option value="start u0" />
         <option value="package:mine" />
         <option value="diff" />
-        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 OnGlobalLayoutListener" />
         <option value="package:mine -tag:gralloc4 draw" />
         <option value="package:mine -tag:gralloc4 onDraw" />
