@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttpClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 OkHttpClient" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 observerDialogFragment" />
@@ -27,7 +28,6 @@
         <option value="package:com.auto.palmpay" />
         <option value="package:mine -tag:gralloc4 tag:MyAccessibilityService " />
         <option value="package:mine -tag:gralloc4 tag=:MyAccessibilityService " />
-        <option value="package:mine -tag:gralloc4 tag=:MyAccessibilityService" />
       </list>
     </option>
   </component>
