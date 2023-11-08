@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 Ok" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 OkHttpClient" />
         <option value="package:mine -tag:gralloc4 OkH" />
@@ -27,7 +28,6 @@
         <option value="package:mine -tag:gralloc4 onViewAttachedToWindow" />
         <option value="mActivityBinding" />
         <option value="package:mine tag=:MyAccessibilityService" />
-        <option value="package:com.auto.palmpay" />
       </list>
     </option>
   </component>
