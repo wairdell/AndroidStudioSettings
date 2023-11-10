@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 Ok" />
         <option value="package:mine -tag:gralloc4 OkHttpClient" />
@@ -27,7 +28,6 @@
         <option value="package:mine -tag:gralloc4 onViewDetachedFromWindow" />
         <option value="package:mine -tag:gralloc4 onViewAttachedToWindow" />
         <option value="mActivityBinding" />
-        <option value="package:mine tag=:MyAccessibilityService" />
       </list>
     </option>
   </component>
