@@ -5,11 +5,12 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHTT" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 OkHTT" />
         <option value="package:mine -tag:gralloc4 TAG" />
+        <option value="package:mine -tag:gralloc4 OKHttp" />
+        <option value="package:mine -tag:gralloc4 OkHTT" />
         <option value="package:mine " />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 " />
@@ -27,7 +28,6 @@
         <option value="diff" />
         <option value="package:mine -tag:gralloc4 OnGlobalLayoutListener" />
         <option value="package:mine -tag:gralloc4 draw" />
-        <option value="package:mine -tag:gralloc4 onDraw" />
       </list>
     </option>
   </component>
