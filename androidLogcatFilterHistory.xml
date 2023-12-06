@@ -5,14 +5,14 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.lairixinge.manghe -tag=:gralloc4 console" />
+    <option name="mostRecentlyUsed" value="package:com.lairixinge.manghe -tag=:gralloc4" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lairixinge.manghe -tag=:gralloc4" />
         <option value="package:com.lairixinge.manghe -tag=:gralloc4 console" />
         <option value="package:mine -tag:gralloc4 console" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine " />
-        <option value="package:com.lairixinge.manghe -tag=:gralloc4" />
         <option value="package:com.lairixinge.manghe " />
         <option value="package:com.lairixinge.manghe" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
