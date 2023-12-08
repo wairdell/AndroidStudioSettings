@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG " />
+    <option name="mostRecentlyUsed" value="package:mine OkHTTP" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine OkHTTP" />
         <option value="package:mine -tag:gralloc4 TAG " />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
@@ -27,7 +28,6 @@
         <option value="package:mine -tag:gralloc4 intent" />
         <option value="package:mine -tag:gralloc4  TAG" />
         <option value="package:mine -tag:gralloc4 OKHttp" />
-        <option value="package:mine -tag:gralloc4 OkHTT" />
       </list>
     </option>
   </component>
