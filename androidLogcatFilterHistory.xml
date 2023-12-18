@@ -5,13 +5,13 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
-        <option value="package:mine -tag:gralloc4 oKh" />
         <option value="package:mine -tag:gralloc4 " />
+        <option value="package:mine -tag:gralloc4 TAG" />
+        <option value="package:mine -tag:gralloc4 oKh" />
         <option value="package:mine OkHTTP" />
         <option value="package:mine -tag:gralloc4 TAG " />
         <option value="package:mine -tag:gralloc4 OkH" />
