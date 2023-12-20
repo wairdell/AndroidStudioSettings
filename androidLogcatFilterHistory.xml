@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
+    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang OkHtt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xz.xiaojiang OkHtt" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:com.xz.xiaojiang TAG" />
         <option value="package:com.xz.xiaojiang Tagg" />
@@ -27,7 +28,6 @@
         <option value="package:mine -tag:gralloc4 OkHTTP" />
         <option value="package:mine OkHttp" />
         <option value="package:mine tag" />
-        <option value="package:mine OkH" />
       </list>
     </option>
   </component>
