@@ -5,12 +5,12 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 Okh" />
-        <option value="package:mine -tag:gralloc4 " />
         <option value="package:com.xz.xiaojiang OkHttp" />
         <option value="package:com.xz.xiaojiang TAG" />
         <option value="package:com.xz.xiaojiang OkHtt" />
