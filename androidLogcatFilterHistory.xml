@@ -9,6 +9,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine -tag:gralloc4 OkHttp" />
+        <option value="package:mine -tag:gralloc4 Okh" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:com.xz.xiaojiang OkHttp" />
         <option value="package:com.xz.xiaojiang TAG" />
@@ -27,7 +28,6 @@
         <option value="package:com.lairixinge.manghe " />
         <option value="package:com.lairixinge.manghe" />
         <option value="package:mine -tag:gralloc4 OkHTTP" />
-        <option value="package:mine OkHttp" />
       </list>
     </option>
   </component>
