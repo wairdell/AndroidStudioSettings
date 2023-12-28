@@ -8,8 +8,8 @@
     <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine OkHTTP" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
+        <option value="package:mine OkHTTP" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 v1/login/before | deviceToken" />
