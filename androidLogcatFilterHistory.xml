@@ -5,9 +5,11 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4" />
+    <option name="mostRecentlyUsed" value="package:mine TAG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine TAG" />
+        <option value="package:mine  TAG" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine OkHTTP" />
@@ -26,8 +28,6 @@
         <option value="package:mine -tag:gralloc4 TAG " />
         <option value="package:com.lairixinge.manghe -tag=:gralloc4" />
         <option value="package:com.lairixinge.manghe -tag=:gralloc4 console" />
-        <option value="package:mine -tag:gralloc4 console" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
