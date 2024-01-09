@@ -5,9 +5,12 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 Ok" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 Ok" />
+        <option value="package:mine -tag:gralloc4 MyApplication" />
+        <option value="package:mine -tag:gralloc4 dealWithCustomMessage" />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 OkHttp" />
@@ -17,7 +20,6 @@
         <option value="package:mine OkHTTP" />
         <option value="package:mine -tag:gralloc4 v1/login/before | deviceToken" />
         <option value="package:mine -tag:gralloc4 v1/login/before" />
-        <option value="package:mine -tag:gralloc4 Ok" />
         <option value="package:mine -tag:gralloc4 OkH" />
         <option value="package:mine -tag:gralloc4 Okh" />
         <option value="package:com.xz.xiaojiang OkHttp" />
@@ -26,8 +28,6 @@
         <option value="package:com.xz.xiaojiang Tagg" />
         <option value="package:mine -tag:gralloc4 OkHttoo" />
         <option value="package:mine -tag:gralloc4 oKh" />
-        <option value="package:mine -tag:gralloc4 TAG " />
-        <option value="package:com.lairixinge.manghe -tag=:gralloc4" />
       </list>
     </option>
   </component>
