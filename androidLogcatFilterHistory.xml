@@ -5,10 +5,16 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang CompatNestedScrollView" />
+    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang NestedScrollView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xz.xiaojiang NestedScrollView" />
+        <option value="package:com.xz.xiaojiang onNestedScroll()" />
+        <option value="package:com.xz.xiaojiang onNestedScroll" />
         <option value="package:com.xz.xiaojiang CompatNestedScrollView" />
+        <option value="package:com.xz.xiaojiang " />
+        <option value="package:com.xz.xiaojiang onNestedPreFling" />
+        <option value="package:com.xz.xiaojiang onNestedPreScroll" />
         <option value="package:com.xz.xiaojiang TAG" />
         <option value="package:com.xz.xiaojiang OkHttp" />
         <option value="package:mine -tag:gralloc4 Ok" />
@@ -22,12 +28,6 @@
         <option value="package:mine  TAG" />
         <option value="package:mine OkHTTP" />
         <option value="package:mine -tag:gralloc4 v1/login/before | deviceToken" />
-        <option value="package:mine -tag:gralloc4 v1/login/before" />
-        <option value="package:mine -tag:gralloc4 OkH" />
-        <option value="package:mine -tag:gralloc4 Okh" />
-        <option value="package:com.xz.xiaojiang OkHtt" />
-        <option value="package:com.xz.xiaojiang Tagg" />
-        <option value="package:mine -tag:gralloc4 OkHttoo" />
       </list>
     </option>
   </component>
