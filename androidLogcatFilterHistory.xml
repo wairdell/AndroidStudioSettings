@@ -5,11 +5,11 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang OkHttp" />
+    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang TAG" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.xz.xiaojiang OkHttp" />
         <option value="package:com.xz.xiaojiang TAG" />
+        <option value="package:com.xz.xiaojiang OkHttp" />
         <option value="package:mine -tag:gralloc4 Ok" />
         <option value="package:mine -tag:gralloc4 MyApplication" />
         <option value="package:mine -tag:gralloc4 dealWithCustomMessage" />
