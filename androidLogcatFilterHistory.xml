@@ -5,9 +5,11 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang NestedScrollView" />
+    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang fling" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xz.xiaojiang fling" />
+        <option value="package:com.xz.xiaojiang createViewBinding" />
         <option value="package:com.xz.xiaojiang NestedScrollView" />
         <option value="package:com.xz.xiaojiang onNestedScroll()" />
         <option value="package:com.xz.xiaojiang onNestedScroll" />
@@ -26,8 +28,6 @@
         <option value="package:mine " />
         <option value="package:mine TAG" />
         <option value="package:mine  TAG" />
-        <option value="package:mine OkHTTP" />
-        <option value="package:mine -tag:gralloc4 v1/login/before | deviceToken" />
       </list>
     </option>
   </component>
