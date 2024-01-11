@@ -5,9 +5,11 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang fling" />
+    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xz.xiaojiang" />
+        <option value="package:mine -tag:gralloc4 " />
         <option value="package:com.xz.xiaojiang fling" />
         <option value="package:com.xz.xiaojiang createViewBinding" />
         <option value="package:com.xz.xiaojiang NestedScrollView" />
@@ -23,11 +25,9 @@
         <option value="package:mine -tag:gralloc4 MyApplication" />
         <option value="package:mine -tag:gralloc4 dealWithCustomMessage" />
         <option value="package:mine -tag:gralloc4 TAG" />
-        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine " />
         <option value="package:mine TAG" />
-        <option value="package:mine  TAG" />
       </list>
     </option>
   </component>
