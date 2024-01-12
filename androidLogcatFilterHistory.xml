@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang OkHttp" />
+    <option name="mostRecentlyUsed" value="package:com.xz.xiaojiang " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.xz.xiaojiang " />
         <option value="package:com.xz.xiaojiang OkHttp" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:com.xz.xiaojiang Ok" />
@@ -19,7 +20,6 @@
         <option value="package:com.xz.xiaojiang onNestedScroll()" />
         <option value="package:com.xz.xiaojiang onNestedScroll" />
         <option value="package:com.xz.xiaojiang CompatNestedScrollView" />
-        <option value="package:com.xz.xiaojiang " />
         <option value="package:com.xz.xiaojiang onNestedPreFling" />
         <option value="package:com.xz.xiaojiang onNestedPreScroll" />
         <option value="package:com.xz.xiaojiang TAG" />
