@@ -5,9 +5,11 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 Ok" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 Ok" />
+        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:com.xz.xiaojiang " />
         <option value="package:com.xz.xiaojiang OkHtt" />
@@ -25,9 +27,7 @@
         <option value="package:com.xz.xiaojiang onNestedPreFling" />
         <option value="package:com.xz.xiaojiang onNestedPreScroll" />
         <option value="package:com.xz.xiaojiang TAG" />
-        <option value="package:mine -tag:gralloc4 Ok" />
         <option value="package:mine -tag:gralloc4 MyApplication" />
-        <option value="package:mine -tag:gralloc4 dealWithCustomMessage" />
       </list>
     </option>
   </component>
