@@ -5,19 +5,20 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 " />
+        <option value="package:mine -tag:gralloc4 OkHttp" />
+        <option value="package:mine -tag:gralloc4 O" />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 Ok" />
-        <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:com.xz.xiaojiang " />
         <option value="package:com.xz.xiaojiang OkHtt" />
         <option value="package:com.xz.xiaojiang O" />
         <option value="package:com.xz.xiaojiang Ok" />
         <option value="package:com.xz.xiaojiang OkHttp" />
         <option value="package:com.xz.xiaojiang" />
-        <option value="package:mine -tag:gralloc4 " />
         <option value="package:com.xz.xiaojiang fling" />
         <option value="package:com.xz.xiaojiang createViewBinding" />
         <option value="package:com.xz.xiaojiang NestedScrollView" />
@@ -27,7 +28,6 @@
         <option value="package:com.xz.xiaojiang onNestedPreFling" />
         <option value="package:com.xz.xiaojiang onNestedPreScroll" />
         <option value="package:com.xz.xiaojiang TAG" />
-        <option value="package:mine -tag:gralloc4 MyApplication" />
       </list>
     </option>
   </component>
