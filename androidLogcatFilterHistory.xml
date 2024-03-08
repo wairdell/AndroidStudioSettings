@@ -5,11 +5,12 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 " />
+        <option value="package:mine -tag:gralloc4 loadBannerExpressAd" />
+        <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 TAG2" />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 activityCount" />
@@ -27,7 +28,6 @@
         <option value="package:mine -tag:gralloc4  " />
         <option value="package:mine" />
         <option value="package:mine  TAG" />
-        <option value="package:mine -tag:gralloc4 O" />
       </list>
     </option>
   </component>
