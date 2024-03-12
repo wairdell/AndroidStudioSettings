@@ -5,17 +5,18 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 onPlayEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 onPlayEvent" />
         <option value="package:mine -tag:gralloc4 TAG" />
+        <option value="package:mine -tag:gralloc4 OkHTTP" />
         <option value="package:com.wj.xiaojiang " />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 loadBannerExpressAd" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 TAG2" />
         <option value="package:mine -tag:gralloc4 activityCount" />
-        <option value="package:mine -tag:gralloc4 OkHTTP" />
         <option value="package:mine -tag:gralloc4 okhttp" />
         <option value="package:mine -tag:gralloc4 express" />
         <option value="package:mine -tag:gralloc4 feed express success" />
@@ -27,7 +28,6 @@
         <option value="Okh" />
         <option value="package:mine -tag:gralloc4  Ok" />
         <option value="package:mine -tag:gralloc4  " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
