@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 measuredWidth" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 measuredWidth" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 loadBannerExpressAd" />
         <option value="package:mine -tag:gralloc4 " />
@@ -27,7 +28,6 @@
         <option value="package:mine -tag:gralloc4 postDelayed" />
         <option value="package:mine -tag:gralloc4 densityDpi" />
         <option value="package:mine " />
-        <option value="Okh" />
       </list>
     </option>
   </component>
