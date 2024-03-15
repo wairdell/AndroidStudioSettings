@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="ban7ozhybynjx8ae" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2012K10C" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="b603af34" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="Xiaomi M2102J2SC" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="ban7ozhybynjx8ae" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2012K10C" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:3:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
