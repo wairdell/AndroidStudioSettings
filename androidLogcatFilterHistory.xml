@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 注册" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 注册" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 TAG2" />
         <option value="package:mine -tag:gralloc4 TAG" />
@@ -27,7 +28,6 @@
         <option value="package:mine -tag:gralloc4 express" />
         <option value="package:mine -tag:gralloc4 feed express success" />
         <option value="package:mine -tag:gralloc4 postDelayed" />
-        <option value="package:mine -tag:gralloc4 densityDpi" />
       </list>
     </option>
   </component>
