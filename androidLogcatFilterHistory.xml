@@ -2,14 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine -tag:gralloc4" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav " />
+        <option value="package:mine -tag:gralloc4" />
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod" />
+        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav" />
         <option value="package:mine -tag:gralloc4 -tag:xt " />
         <option value="package:mine -tag:gralloc4 " />
@@ -28,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 onPlayEvent" />
         <option value="package:com.wj.xiaojiang " />
         <option value="package:mine -tag:gralloc4 activityCount" />
-        <option value="package:mine -tag:gralloc4 okhttp" />
       </list>
     </option>
   </component>
