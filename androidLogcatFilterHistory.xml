@@ -5,9 +5,10 @@
         <option value="package:mine -tag:gralloc4" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:xt -tag:liteav" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:xt -tag:liteav " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav " />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav" />
         <option value="package:mine -tag:gralloc4 -tag:xt " />
         <option value="package:mine -tag:gralloc4 " />
@@ -27,7 +28,6 @@
         <option value="package:com.wj.xiaojiang " />
         <option value="package:mine -tag:gralloc4 activityCount" />
         <option value="package:mine -tag:gralloc4 okhttp" />
-        <option value="package:mine -tag:gralloc4 express" />
       </list>
     </option>
   </component>
