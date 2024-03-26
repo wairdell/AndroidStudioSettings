@@ -3,12 +3,13 @@
     <option name="favorites">
       <list>
         <option value="package:mine -tag:gralloc4" />
+        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav " />
+        <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:xt -tag:liteav " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav " />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav" />
         <option value="package:mine -tag:gralloc4 -tag:xt " />
         <option value="package:mine -tag:gralloc4 " />
