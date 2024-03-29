@@ -7,11 +7,12 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkHttp" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod" />
+        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod onPageSelected" />
+        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkHttp" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav" />
         <option value="package:mine -tag:gralloc4 -tag:xt " />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 getDocument" />
         <option value="package:mine -tag:gralloc4 onRenderSuccess" />
         <option value="package:mine -tag:gralloc4 onPlayEvent" />
-        <option value="package:com.wj.xiaojiang " />
       </list>
     </option>
   </component>
