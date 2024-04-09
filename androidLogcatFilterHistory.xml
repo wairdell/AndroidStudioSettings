@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod startActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod startActivity" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkHttp" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod " />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 注册" />
         <option value="package:mine -tag:gralloc4 TAG2" />
-        <option value="package:mine -tag:gralloc4 Ok" />
       </list>
     </option>
   </component>
