@@ -11,8 +11,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine -tag:gralloc4 createViewBinding" />
-        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 bindItemData" />
+        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod TAG" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod DATA" />
