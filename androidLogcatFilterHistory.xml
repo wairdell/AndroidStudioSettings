@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 createViewBinding" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 createViewBinding" />
         <option value="package:mine -tag:gralloc4 bindItemData" />
         <option value="package:mine -tag:gralloc4 TAG" />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod startActivity" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod oKhTTP" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod oKh" />
       </list>
     </option>
   </component>
