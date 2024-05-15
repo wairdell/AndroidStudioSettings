@@ -7,10 +7,13 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 回调:" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 tx11111111111111" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 tx11111111111111" />
+        <option value="package:mine -tag:gralloc4 tx" />
         <option value="package:mine -tag:gralloc4 回调:" />
+        <option value="package:mine -tag:gralloc4 播放中:" />
         <option value="package:mine -tag:gralloc4 vod" />
         <option value="package:mine -tag:gralloc4 onNestedPreScroll" />
         <option value="package:mine -tag:gralloc4 createViewBinding" />
@@ -27,9 +30,6 @@
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod AuthBindActivity" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod AuthActivity" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkH" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod xxx" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkHTTP" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod MainActivity" />
       </list>
     </option>
   </component>
