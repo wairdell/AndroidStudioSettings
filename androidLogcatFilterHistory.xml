@@ -7,9 +7,11 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 onNestedPreScroll" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 回调:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 回调:" />
+        <option value="package:mine -tag:gralloc4 vod" />
         <option value="package:mine -tag:gralloc4 onNestedPreScroll" />
         <option value="package:mine -tag:gralloc4 createViewBinding" />
         <option value="package:mine -tag:gralloc4 " />
@@ -28,8 +30,6 @@
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod xxx" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkHTTP" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod MainActivity" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod startActivity" />
-        <option value="package:mine -tag:gralloc4 OkHttp" />
       </list>
     </option>
   </component>
