@@ -7,11 +7,14 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 fillWithHorizontal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 TAG" />
+        <option value="package:mine -tag:gralloc4 fillWithHorizontal" />
+        <option value="package:mine -tag:gralloc4 scrollHorizontallyBy" />
+        <option value="package:mine -tag:gralloc4 onLayoutChildren" />
         <option value="package:mine -tag:gralloc4 GalleryLayoutManager" />
+        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 ccccccccccc" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 isShowWatchPlayletData =&gt;" />
@@ -27,9 +30,6 @@
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 bindItemData" />
         <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod TAG" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod DATA" />
-        <option value="package:mine -tag:gralloc4 -tag:xt -tag:liteav -tag:WrapVideoPlayer -tag:vod OkHttp" />
       </list>
     </option>
   </component>
