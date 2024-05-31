@@ -7,11 +7,11 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 GL_TOOLS" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 OkHttp" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine -tag:gralloc4 GL_TOOLS" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
+        <option value="package:mine -tag:gralloc4 GL_TOOLS" />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 onCreateAnimation" />
         <option value="package:mine -tag:gralloc4 " />
