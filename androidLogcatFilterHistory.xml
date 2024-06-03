@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG tag:GL_TOOLS" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 getScrollState" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 getScrollState" />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 GL_TOOLS" />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 tx" />
         <option value="package:mine -tag:gralloc4 回调:" />
         <option value="package:mine -tag:gralloc4 播放中:" />
-        <option value="package:mine -tag:gralloc4 vod" />
       </list>
     </option>
   </component>
