@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:liteav " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:liteav OkH" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 -tag:liteav OkH" />
         <option value="package:mine -tag:gralloc4 -tag:liteav " />
         <option value="package:mine -tag:gralloc4 scrollToPositionWithOffset" />
         <option value="package:mine -tag:gralloc4 -tag:liteav OkHttp" />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 GalleryLayoutManager" />
         <option value="package:mine -tag:gralloc4 ccccccccccc" />
         <option value="package:mine -tag:gralloc4 isShowWatchPlayletData =&gt;" />
-        <option value="package:mine -tag:gralloc4 isShowWatchPlayletData" />
       </list>
     </option>
   </component>
