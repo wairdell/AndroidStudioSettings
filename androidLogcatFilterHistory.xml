@@ -7,15 +7,15 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:liteav Ok" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:liteav OkHttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 scrollToPositionWithOffset" />
+        <option value="package:mine -tag:gralloc4 -tag:liteav OkHttp" />
         <option value="package:mine -tag:gralloc4 -tag:liteav Ok" />
         <option value="package:mine -tag:gralloc4 -tag:liteav " />
-        <option value="package:mine -tag:gralloc4 -tag:liteav OkHttp" />
         <option value="package:mine -tag:gralloc4 -tag:liteav" />
         <option value="package:mine -tag:gralloc4 " />
-        <option value="package:mine -tag:gralloc4 scrollToPositionWithOffset" />
         <option value="package:mine -tag:gralloc4 getScrollState" />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 OkHttp" />
