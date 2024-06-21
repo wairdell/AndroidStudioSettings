@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 -tag:liteav OKhTTp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 -tag:liteav OKhTTp" />
         <option value="handleLoadPackage" />
         <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 " />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 scrollHorizontallyBy" />
         <option value="package:mine -tag:gralloc4 onLayoutChildren" />
         <option value="package:mine -tag:gralloc4 GalleryLayoutManager" />
-        <option value="package:mine -tag:gralloc4 ccccccccccc" />
       </list>
     </option>
   </component>
