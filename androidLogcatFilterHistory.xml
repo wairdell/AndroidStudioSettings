@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 ===================" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 NumberAdapter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 NumberAdapter" />
         <option value="package:mine -tag:gralloc4 -tag:liteav OKhTTp" />
         <option value="package:mine -tag:gralloc4 ===================" />
         <option value="package:mine TAG" />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 Dispatch" />
         <option value="package:mine -tag:gralloc4 ItemTouchHelperCallback" />
         <option value="package:mine -tag:gralloc4 fillWithHorizontal" />
-        <option value="package:mine -tag:gralloc4 scrollHorizontallyBy" />
       </list>
     </option>
   </component>
