@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine LearnView" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 StartupTiming" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 StartupTiming" />
         <option value="package:mine LearnView" />
         <option value="package:mine -tag:gralloc4 -tag:liteav " />
         <option value="package:mine NumberAdapter" />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 OkHttp" />
         <option value="package:mine -tag:gralloc4 GL_TOOLS" />
         <option value="package:mine -tag:gralloc4 onCreateAnimation" />
-        <option value="package:mine -tag:gralloc4 Dispatch" />
       </list>
     </option>
   </component>
