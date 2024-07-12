@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag=:flutter " />
+    <option name="mostRecentlyUsed" value="init" />
     <option name="nonFavorites">
       <list>
+        <option value="init" />
         <option value="tag=:flutter " />
         <option value="initState" />
         <option value="package:mine -tag:gralloc4 StartupTiming" />
@@ -29,7 +30,6 @@
         <option value="package:mine -tag:gralloc4 -tag:liteav Ok" />
         <option value="package:mine -tag:gralloc4 -tag:liteav" />
         <option value="package:mine -tag:gralloc4 getScrollState" />
-        <option value="package:mine -tag:gralloc4 OkHttp" />
       </list>
     </option>
   </component>
