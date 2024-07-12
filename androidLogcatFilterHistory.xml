@@ -7,9 +7,10 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="init" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 TAG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="init" />
         <option value="tag=:flutter " />
         <option value="initState" />
@@ -21,7 +22,6 @@
         <option value="package:mine -tag:gralloc4 -tag:liteav OKhTTp" />
         <option value="package:mine -tag:gralloc4 ===================" />
         <option value="package:mine TAG" />
-        <option value="package:mine -tag:gralloc4 TAG" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="handleLoadPackage" />
         <option value="package:mine -tag:gralloc4 -tag:liteav OkH" />
