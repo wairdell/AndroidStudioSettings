@@ -7,7 +7,7 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4 app_name" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:gralloc4" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine -tag:gralloc4 app_name" />
