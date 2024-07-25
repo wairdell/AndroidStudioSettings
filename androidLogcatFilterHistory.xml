@@ -7,9 +7,13 @@
         <option value="package:mine is:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="-tag:gralloc4 loadVoiceAd" />
     <option name="nonFavorites">
       <list>
+        <option value="-tag:gralloc4 loadVoiceAd" />
+        <option value="-tag:gralloc4" />
+        <option value="loadVoiceAd" />
+        <option value="package:mine loadVoiceAd" />
         <option value="package:mine -tag:gralloc4 app_name" />
         <option value="package:mine -tag:gralloc4 " />
         <option value="package:mine -tag:gralloc4 TAG" />
@@ -26,10 +30,6 @@
         <option value="package:mine LearnView" />
         <option value="package:mine -tag:gralloc4 -tag:liteav " />
         <option value="package:mine NumberAdapter" />
-        <option value="package:mine -tag:gralloc4 NumberAdapter" />
-        <option value="package:mine -tag:gralloc4 -tag:liteav OKhTTp" />
-        <option value="package:mine -tag:gralloc4 ===================" />
-        <option value="package:mine TAG" />
       </list>
     </option>
   </component>
